@@ -1,0 +1,18 @@
+body{background-color: rgb(255, 232, 127);
+font-family: Arial, Helvetica, sans-serif;
+}
+body{text-align: center;}
+.red {color: red; text-shadow: 1px 2px 3px chocolate;}
+.blue {color: blue; text-shadow: 1px 2px 3px chocolate;}
+.yellow{color: rgba(255, 255, 0, 0.735);
+text-shadow: 1px 2px 3px chocolate;}
+img {transition: transform 0.3s ease;
+    width: 200px;
+    height: auto;
+    max-width: 100%;
+}
+img:hover {
+    transform:scale(1.1) ;
+}
+h1 {color: brown; text-shadow: 1px 2px 3px chocolate;}
+h2 {color: brown; text-shadow: 1px 2px 3px chocolate;}
